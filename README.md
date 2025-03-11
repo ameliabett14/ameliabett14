@@ -9,8 +9,6 @@
 - 📫 The best way to reach me is by email at amy.bettis14@gmail.com!
 -
 - 😄 Pronouns: She/Her
--
-- ⚡ Fun fact: I was once chased by a Dallas Cowboy. I was captain of a local dodgeball team. I am a published shoe designer. 
 
 <!---
 ameliabett14/ameliabett14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
